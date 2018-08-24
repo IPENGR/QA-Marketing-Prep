@@ -1,0 +1,32 @@
+QA Weekly Schedule
+===================
+
+Topics for first 2 weeks (Common to QA & UI)
+--------------------------------------------
+1. Software Architecture
+2. HTTP / WebServices
+3. SDLC
+4. SQL
+5. HTML Basics, CSS Basics
+6. Rally
+7. XML / JSon / XPath / CSS Selectors
+8. UNIX
+
+Third & Fourth week topics 
+---------------------------
+9. Testing Fundamentals
+10. OOPS 
+11. Java Basics 
+12. Java String
+13. Java Arrays
+14. Java Exception Handling
+15. Java IO
+16. Java Collections
+17. Java Multithreading
+
+Fifth
+------
+18. Selenium Automation (Intro , components, example)
+19. WebDriver (Selenium API, locators, WebDriver/WebElement methods,list, CSS/XPath, Close/Quit)
+20. WebDriver (Select drop down, Multi-Select 
+
